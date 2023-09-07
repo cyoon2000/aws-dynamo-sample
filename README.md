@@ -23,3 +23,8 @@ Local Python IDE Env :
 2. Load Data (load.py)
 3. Add Data (add-new.py)
 4. Query Data (query.py)
+
+Example to install dependency -
+   ```
+   pip3 install boto3
+   ```
